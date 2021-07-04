@@ -7,5 +7,3 @@
 🛠️ Chromebook Pixelbook, Vim, Tmux, NixOps
 
 👨‍💻 Haskell, PureScript, Nix 
-
-👔 Blockchain, Machine Learning, Robotics
