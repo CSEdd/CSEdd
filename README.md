@@ -4,7 +4,7 @@
 
 💭 Functional, declarative, reproduceable
 
-🛠️ Chromebook Pixelbook, Vim, Tmux
+🛠️ Chromebook Pixelbook, Vim, Tmux, NixOps
 
 👨‍💻 Haskell, PureScript, Nix 
 
