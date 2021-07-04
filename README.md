@@ -4,6 +4,6 @@
 
 💭 Functional, declarative, reproduceable
 
-🛠️ Chromebook Pixelbook, Vim, Tmux, NixOps
+🛠️ Chromebook Pixelbook, Vim, Tmux, Bazel
 
 👨‍💻 Haskell, PureScript, Nix 
