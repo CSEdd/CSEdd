@@ -7,3 +7,5 @@
 🛠️ Chromebook Pixelbook, Vim, Tmux, Bazel
 
 👨‍💻 (Liquid) Haskell, PureScript, Nix 
+
+🏫 Logic, type theory, theory of computation 
