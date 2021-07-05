@@ -6,6 +6,6 @@
 
 🛠️ Chromebook Pixelbook, Vim, Tmux, Bazel
 
-👨‍💻 (Liquid) Haskell, PureScript, Nix 
+👨‍💻 Haskell, PureScript, Nix 
 
 🏫 Logic, type theory, type-driven development, theory of computation 
