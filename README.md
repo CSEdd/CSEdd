@@ -8,4 +8,4 @@
 
 👨‍💻 (Liquid) Haskell, PureScript, Nix 
 
-🏫 Logic, type theory, theory of computation 
+🏫 Logic, type theory, type-driven development, theory of computation 
