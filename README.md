@@ -9,3 +9,5 @@
 👨‍💻 (Liquid) Haskell, PureScript, Nix 
 
 🏫 Logic, type theory, type-driven development, theory of computation 
+
+👔 Blockchain, machine learning, critical systems
