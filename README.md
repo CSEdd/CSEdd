@@ -7,5 +7,3 @@
 🛠️ Chromebook Pixelbook, Vim, Tmux, Bazel
 
 👨‍💻 Haskell, PureScript, Nix 
-
-🏫 Logic, type theory, type-driven development, theory of computation 
