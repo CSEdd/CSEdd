@@ -6,4 +6,4 @@
 
 🛠️ Chromebook Pixelbook, Vim, Tmux, Bazel
 
-👨‍💻 Haskell, PureScript, Nix 
+👨‍💻 Haskell, PureScript, Elm, Nix, PostgreSQL 
